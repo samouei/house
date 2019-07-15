@@ -1,7 +1,3 @@
-## 6.0001 Pset 1: Part a 
-## Name: Shirin Amouei
-## Time Spent: 3:00
-## Collaborators: None
 
 ##########################################################################
 ## Get user input for annual_salary, portion_saved and total_cost below ##
