@@ -1,7 +1,3 @@
-## 6.0001 Pset 1: Part c
-## Name: Shirin Amouei
-## Time Spent: 3:00
-## Collaborators: None
 
 ##############################################
 ## Get user input for initial_deposit below ##
